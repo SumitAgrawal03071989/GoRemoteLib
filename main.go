@@ -1,4 +1,4 @@
-package goremotelib
+package main
 
 import "fmt"
 
